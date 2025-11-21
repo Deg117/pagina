@@ -1,5 +1,5 @@
 ---
-title: "Prácticas"
+title: "Exposiciones"
 description: "Listado de exposiciones de Paradigmas de la Programación"
 ---
 
