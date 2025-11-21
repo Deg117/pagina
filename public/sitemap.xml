@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://deg117.github.io/pagina/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/pagina/exposiciones/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/exposiciones/exposiciones/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/manejo-de-memoria_5/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/practica0/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/practica1/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/practica2/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/practica3/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/practica4/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pagina/practicas/readme/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+</urlset>

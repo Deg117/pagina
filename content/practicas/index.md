@@ -1,4 +1,0 @@
----
-title: "Prácticas"
-draft: false
----
