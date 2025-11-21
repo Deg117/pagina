@@ -1,6 +1,6 @@
 ---
 title: "Exposiciones"
-description: "Mis exposiciones y presentaciones"
+description: "Mis exposiciones "
 ---
 
 Aquí encontrarás todas mis exposiciones y presentaciones.
