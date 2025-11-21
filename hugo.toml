@@ -37,7 +37,7 @@ pluralizeListTitles = false
   
   [[menu.main]]
     name = "Prácticas"
-    url = "/"
+    url = "/practicas/"
     weight = 3
 
   [[menu.main]]
