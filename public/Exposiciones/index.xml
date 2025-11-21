@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exposiciones on </title>
+    <link>http://localhost:1313/pagina-hugo/exposiciones/</link>
+    <description>Recent content in Exposiciones on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pagina-hugo/exposiciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exposiciones</title>
+      <link>http://localhost:1313/pagina-hugo/exposiciones/exposiciones/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pagina-hugo/exposiciones/exposiciones/</guid>
+      <description>&lt;p&gt;&lt;a
+  href=&#34;https://www.canva.com/design/DAGwKziLDeI/72CLo-2DEtK640NZlrZfSA/view?utm_content=DAGwKziLDeI&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h1f7e5cccea&#34;
+    target=&#34;_blank&#34;
+  &gt;1-Historia de los lenguajes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  href=&#34;https://www.canva.com/design/DAG1aFbr5is/HIgiWLoHvyX07BXN2nBEOg/view?utm_content=DAG1aFbr5is&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=hb90795de9a&#34;
+    target=&#34;_blank&#34;
+  &gt;2-Caracteristicas de Poo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  href=&#34;https://www.canva.com/design/DAG3YKwnTgw/fAXMDjtiRfjQs2E_QpPhwA/view?utm_content=DAG3YKwnTgw&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h4e6f307aa9&#34;
+    target=&#34;_blank&#34;
+  &gt;3-Operaciones Funcionales&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+baseURL = "https://deg117.github.io/pagina-hugo/"
+languageCode = "es-mx"
+title = ""
+theme = "blowfish"
+
+defaultContentLanguage = "es"
+enableInlineShortcodes = true
+pluralizeListTitles = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Estudiante de Ingeniería en Software — Portafolio personal"
+  colorScheme = "auto"
+  enableSearch = true
+  enableCodeCopy = true
+  heroStyle = "background"
+  background_color_class = "bg-dark-blue"
+  site_logo = ""
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Exposiciones"
+    url = "/Exposiciones/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "Prácticas"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "github"
+    url = "https://github.com/Deg117"
+    weight = 4
+  
+  [[menu.main]]
+    name = "Insta"
+    url = "https://www.instagram.com/brj_107?igsh=ODNlMWwyeXJnOWlv&utm_source=qr"
+    weight = 5
+
