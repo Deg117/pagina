@@ -32,7 +32,7 @@ pluralizeListTitles = false
 
   [[menu.main]]
     name = "Exposiciones"
-    url = "/Exposiciones/"
+    url = "/exposiciones/"
     weight = 2
   
   [[menu.main]]
