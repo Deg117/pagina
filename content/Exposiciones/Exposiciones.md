@@ -1,7 +1,7 @@
 ---
 title: "Exposiciones"
 date: 2025-01-01
-draft: false
+
 ---
 
 [1-Historia de los lenguajes]( https://www.canva.com/design/DAGwKziLDeI/72CLo-2DEtK640NZlrZfSA/view?utm_content=DAGwKziLDeI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f7e5cccea)

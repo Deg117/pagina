@@ -1,7 +1,7 @@
 ---
 title: "Práctica 2"
 date: 2025-01-01
-draft: false
+
 ---
 
 # Universidad Autónoma de Baja California  

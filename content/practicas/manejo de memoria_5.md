@@ -1,7 +1,7 @@
 ﻿---
 title: "Manejo de memoria"
 date: 2025-01-01
-draft: false
+
 ---
 Universidad Autónoma De Baja California ![](Aspose.Words.dddbaa33-12d5-4d39-accf-9048ed1529ca.001.png)![](Aspose.Words.dddbaa33-12d5-4d39-accf-9048ed1529ca.002.png)
 

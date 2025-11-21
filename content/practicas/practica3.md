@@ -1,7 +1,7 @@
 ---
 title: "Práctica 3"
 date: 2025-01-01
-draft: false
+
 ---
 
 # UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA  
