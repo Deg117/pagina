@@ -1,7 +1,7 @@
 ---
 title: "Readme "
 date: 2025-01-01
-draft: true
+draft: false
 ---
 # encabezado 1
 
