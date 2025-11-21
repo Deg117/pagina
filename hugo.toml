@@ -25,7 +25,6 @@ pluralizeListTitles = false
     weight = 1
 
 [menu]
-[menu]
   [[menu.main]]
     name = "Inicio"
     url = "/"
